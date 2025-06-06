@@ -14,3 +14,6 @@ https://github.com/al8rty - решение 3
 
 https://github.com/stepanovs2005/Demo2025
 
+https://github.com/damh66/demo2025
+
+https://github.com/abdurrah1m/DEMO2025

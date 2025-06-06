@@ -4,4 +4,6 @@ https://github.com/delmimalta/sdemo25 - рещение
 
 https://github.com/demom99/demoexam2025 - другое решение
 
-https://github.com/hiyokkoooo/demo25 ешение скрипт
+https://github.com/hiyokkoooo/demo25 решение скрипт
+
+https://github.com/al8rty
